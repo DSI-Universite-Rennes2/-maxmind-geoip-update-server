@@ -1,0 +1,5 @@
+*.mmdb
+*.key
+GeoIP.conf
+config.php
+*.swp
