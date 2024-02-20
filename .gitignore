@@ -3,3 +3,4 @@
 GeoIP.conf
 config.php
 *.swp
+vendor/
